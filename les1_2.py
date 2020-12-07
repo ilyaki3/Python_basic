@@ -18,5 +18,3 @@ seconds = input_seconds % 3600 % 60
 
 print(f'{hours}:{minutes}:{seconds}')
 print(datetime.time(hours, minutes, seconds))
-
-

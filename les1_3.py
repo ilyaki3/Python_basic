@@ -17,4 +17,3 @@ if user_number.isdigit():
 else:
     print('Введите числовое значение')
     exit()
-
