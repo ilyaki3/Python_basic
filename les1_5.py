@@ -8,6 +8,7 @@
     фирмы в расчете на одного сотрудника.
 """
 
+
 def input_check(user_input):
     if user_input.isdigit():
         user_input = int(user_input)
